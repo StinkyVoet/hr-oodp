@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Batman",
+    "OwnedCars": [
+      {
+        "Brand": "Batmobile",
+        "Mileage": 216
+      },
+      {
+        "Brand": "Lamborghini Murciélago",
+        "Mileage": 135
+      }
+    ]
+  }
+]
