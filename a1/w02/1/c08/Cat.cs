@@ -1,6 +1,9 @@
-namespace c08;
-
-public class Cat
+class Cat
 {
-    
+    public string Name;
+
+    public Cat(string Name)
+    {
+        this.Name = Name;
+    }
 }
