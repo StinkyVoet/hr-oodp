@@ -1,0 +1,1 @@
+﻿Calculator.StoreInMemory(15);

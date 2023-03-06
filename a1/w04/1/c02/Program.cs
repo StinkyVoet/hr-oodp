@@ -1,0 +1,1 @@
+﻿File.AppendAllText("MyTextFile.txt", "\nAdded line.");
